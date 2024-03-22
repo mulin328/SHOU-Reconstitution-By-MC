@@ -6,7 +6,7 @@ This work is licensed under a CC BY-NC-SA 4.0 International License.
 
 使用总则
 
-1. MC还原海大项目（下称本项目）是上海海洋大学Minecraft社团（下称本社团）的基于Minecraft创作的作品，其著作权归属本社团及 珀尔Poer 与 雨落雨归二位作者所有。其著作权受法律保护。
+1. MC还原海大项目（下称本项目）是上海海洋大学Minecraft社团（下称本社团）的基于Minecraft创作的作品，其著作权归属本社团及 珀尔（Poer） 与 雨落雨归（Mulin）二位作者所有。其著作权受法律保护。
 
 2. 项目爱好者以及二次创作者在使用本项目或基于本项目进行创作时，需遵守本规定案的所有规定。
 
